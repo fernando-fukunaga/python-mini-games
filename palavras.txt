@@ -17,3 +17,4 @@ kiwi
 abacate
 pêssego
 mirtilo
+cereja
