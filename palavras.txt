@@ -18,3 +18,4 @@ abacate
 pêssego
 mirtilo
 cereja
+ameixa
