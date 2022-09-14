@@ -19,3 +19,5 @@ pêssego
 mirtilo
 cereja
 ameixa
+pitaia
+amora
