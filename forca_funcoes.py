@@ -64,9 +64,9 @@ def obter_palavra_secreta():
         return palavra
 
 def imprime_mensagem_abertura():
-    print("*********************************")
-    print("***Bem vindo ao jogo da Forca!***")
-    print("*********************************")
+    print("************************************")
+    print("***Bem vindo(a) ao jogo da Forca!***")
+    print("************************************")
 
 def desenha_forca(erros):
     print("  _______     ")
